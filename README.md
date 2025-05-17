@@ -1,7 +1,7 @@
-# NetworkSentinel
+## NetworkSentinel
 Network Intrusion Detection System
 
-## Acknowledgements
+### Acknowledgements
 
 Welcome to NetworkSentinel, a Network Intrusion Detection System. The development of this NIDS will towards gaining more personal experience, and dive deeper into the fields of cyber. Will attempt to frequently update this code, I appologize in advance if their is a delay between updates.
 --------
