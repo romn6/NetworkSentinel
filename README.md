@@ -19,6 +19,20 @@ A recent Computer Science graduate with a strong passion for Cybersecurity.
 
 ---
 
+### 🛠️ Building and Running (C):
+
+1.  **Prerequisites:** Ensure you have a C compiler (like GCC) and `libpcap` development libraries installed on your system.
+    * **Linux:** `sudo apt-get update && sudo apt-get install gcc libpcap-dev`
+    * **macOS:** If you have Xcode Command Line Tools installed, GCC should be available. You might need to install `libpcap` using Homebrew: `brew install libpcap`
+
+2.  **Compilation:** Navigate to the project directory in your terminal and compile the C source files. The exact command will depend on your project structure and source file names. **[Compilation command to be determined]**
+
+3.  **Running:** After successful compilation, you can run the executable. The exact command and any required arguments (like the network interface) will depend on how you design your NIDS. **[Running command and arguments to be determined]**
+
+**Note:** These instructions will be updated as the project development progresses and the build process is finalized.
+
+---
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
