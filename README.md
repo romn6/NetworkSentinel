@@ -54,7 +54,7 @@ This project will delve into several important cybersecurity concepts, including
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools (Other Skills):
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
