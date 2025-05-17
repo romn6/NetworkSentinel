@@ -3,9 +3,10 @@
 Network Intrusion Detection System
 
 Welcome to NetworkSentinel, a Network Intrusion Detection System. The development of this NIDS will towards gaining more personal experience, and dive deeper into the fields of cyber. Will attempt to frequently update this code, I appologize in advance if their is a delay between updates.
-
 ------------
-Hi 👋, I'm romn6
+
+        Hi 👋, I'm romn6
+        
 Recent CS Gradute with a passion in Cybersecurity.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romn6&label=Profile%20views&color=0e75b6&style=flat" alt="romn6" /> </p>
