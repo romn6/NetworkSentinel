@@ -33,6 +33,27 @@ A recent Computer Science graduate with a strong passion for Cybersecurity.
 
 ---
 
+### 💡 Potential and Scope (C Implementation)
+
+While the specific implementation details are still in development, this project aims to leverage the strengths of the C to create a insightful Network Intrusion Detection System. By choosing C, I intend to explore and potentially optimize for:
+
+* **High-Performance Packet Processing:** C's low-level memory management and direct access to system resources can enable efficient capture and analysis of network traffic, which is critical for a real-time NIDS.
+* **Fine-Grained Network Control:** C allows for detailed manipulation of network packets and protocols, providing a deeper understanding of network behavior and potential anomalies.
+* **System-Level Integration:** A C-based NIDS could potentially be more easily integrated into various operating systems or embedded security appliances.
+
+**Key Cybersecurity Topics to be Explored:**
+
+This project will delve into several important cybersecurity concepts, including:
+
+* **Network Protocol Analysis:** Implementing the parsing and understanding of common network protocols (e.g., TCP, UDP, IP, Ethernet).
+* **Signature-Based Intrusion Detection:** Developing and implementing rule-based detection mechanisms to identify known attack patterns.
+* **Raw Socket Programming:** Utilizing raw sockets in C to capture and analyze network traffic at a fundamental level.
+* **Memory Management for Security:** Paying close attention to secure memory handling practices to avoid vulnerabilities.
+* **Basic Anomaly Detection Concepts (Potential Future Expansion):** While the initial focus might be on signature-based detection, the architecture could be designed to accommodate future exploration of statistical or behavioral anomaly detection techniques.
+* **Alerting and Logging Mechanisms:** Implementing ways to report detected intrusions and log relevant network activity.
+
+---
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
